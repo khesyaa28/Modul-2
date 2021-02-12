@@ -1,0 +1,8 @@
+<Container style={{ marginTop: '3em' }}>
+
+        <Grid columns={3} stackable>
+        <Grid.Column><img src={'mark.jpg'} alt='' width={350}/></Grid.Column>
+        <Grid.Column><p>this is mark, lets be nice</p></Grid.Column>
+        <Grid.Column> </Grid.Column>
+        </Grid>
+        </Container>
